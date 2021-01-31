@@ -486,14 +486,14 @@
   opacity: 0;
 }
 .mega-menu .menu-mobile-collapse-trigger.active:before {
-  -webkit-transform: rotate(30deg);
-      -ms-transform: rotate(30deg);
-          transform: rotate(30deg);
+  -webkit-transform: rotate(34deg);
+      -ms-transform: rotate(34deg);
+          transform: rotate(34deg);
 }
 .mega-menu .menu-mobile-collapse-trigger.active:after {
-  -webkit-transform: rotate(-30deg);
-      -ms-transform: rotate(-30deg);
-          transform: rotate(-30deg);
+  -webkit-transform: rotate(-35deg);
+      -ms-transform: rotate(-35deg);
+          transform: rotate(-35deg);
 }
 @media screen and (max-width: 992px) {
   .mega-menu .menu-mobile-collapse-trigger {
