@@ -1,13 +1,4 @@
-/*
 
-Template: The Zayka - Multipurpose Restaurant, Food & Cafe HTML5 Template
-Author: potenzaglobalsolutions.com
-Version: 1.0  
-Design and Developed by: potenzaglobalsolutions.com
-
-NOTE: This is color stylesheet of Color Scheme.
-
-*/
 
 /*************************
 		General
@@ -42,3 +33,10 @@ NOTE: This is color stylesheet of Color Scheme.
 
 .footer-social [data-tooltip]:before, .footer-social .tooltip:before, .footer-social .tooltip-top:before { border-top-color: #71bf44; }
 .select-styled:active:after, .select-styled.active:after { border-color: transparent transparent #71bf44 transparent; }
+
+
+.product-items {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
